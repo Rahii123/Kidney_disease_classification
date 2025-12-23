@@ -21,3 +21,5 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger("cnnClassifierLogger")
+
+__all__ = ["logger"]
