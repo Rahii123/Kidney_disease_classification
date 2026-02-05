@@ -1,0 +1,8 @@
+﻿* remote hf
+  Fetch URL: https://huggingface.co/spaces/Rahii123/Kidney_Disease_Classification
+  Push  URL: https://huggingface.co/spaces/Rahii123/Kidney_Disease_Classification
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local ref configured for 'git push':
+    main pushes to main (local out of date)

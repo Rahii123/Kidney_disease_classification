@@ -1,0 +1,126 @@
+.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local env files
+.env
+.env.*
+
+# mypy
+.mypy_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Model outputs and checkpoints
+models/
+checkpoints/
+weights/
+outputs/
+artifacts/
+saved_models/
+
+# Data (use DVC to manage large data instead of git)
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.h5
+*.hdf5
+*.npy
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+
+
+# Python compiled
+*.pyc
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Notebook checkpoints
+*.ipynb
+
+# Windows thumbnail cache
+ehthumbs.db
+Icon
+
+#ignpore artifacts folder
+
+research/
+!artifacts/training/model.h5
+
+research/
+artifacts/data_ingestion/
+artifacts/prepare_base_model/
+
+research/
+
+research/
