@@ -1,0 +1,7 @@
+  clean-main
+  deploy-branch
+* main
+hf	https://huggingface.co/spaces/Rahii123/Kidney_Disease_Classification (fetch)
+hf	https://huggingface.co/spaces/Rahii123/Kidney_Disease_Classification (push)
+origin	https://github.com/Rahii123/Kidney_disease_classification.git (fetch)
+origin	https://github.com/Rahii123/Kidney_disease_classification.git (push)
